@@ -1,0 +1,2 @@
+# CMD
+USEFULL CODE
